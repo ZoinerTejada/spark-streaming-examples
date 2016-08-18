@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.microsoft.spark.streaming.examples.workloads.Eventhubs
+ EventCount
+
